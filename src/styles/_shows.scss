@@ -3,6 +3,7 @@
 
 .shows {
     padding: 2vw 5.6vw;
+    min-height: 60vw;
     &__list {
         display: none;
         grid-template-columns: 1fr 1fr 1fr;

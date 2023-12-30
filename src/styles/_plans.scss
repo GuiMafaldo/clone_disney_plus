@@ -18,6 +18,15 @@
         text-align: center;
         margin-top: 50px;
 
+        @media (max-width: 768px) {
+            display: block;
+        }
+
+        .button {
+            margin-top: 24px;
+        }
+
+
 
         &__item {
             padding: 60px 20px 20px;
